@@ -1,5 +1,5 @@
-# 21UG0524 - R.D.H.Rupasinghe
+# 21UG0524 - R.D.H.RUPASINGHE
 
-## Heading 2
+## Tip Calculator App
 
 #### Heading 4
